@@ -1,0 +1,18 @@
+.App {
+  text-align: right;
+}
+
+
+
+.App-header {
+  background-color: #d41616;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: right;
+  justify-content: right;
+  font-size: calc(10px + 2vmin);
+  color: rgb(58, 105, 145);
+}
+
+
